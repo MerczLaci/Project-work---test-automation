@@ -1,0 +1,6 @@
+last name: Mekk
+first name: Elek
+postal code: 1034
+street and house number: Kecske utca, 1.
+phone number: 06203334455
+email address: mekkelek@gmail.com

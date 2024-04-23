@@ -1,0 +1,14 @@
+last name: Mekk
+first name: Elek
+tax number: 12345678
+postal code: 1034
+street and house number: Kecske utca, 1.
+floor and apartment: 2.em.3.
+phone number: 06203334455
+email address: mekkelek@gmail.com
+lastname at another delivery address: Mekk
+firstname at another delivery address: Mariska
+postal code at another delivery address: 2081
+street and house number at another delivery address: Kecskegida utca, 1.
+other address at another delivery address: 2.lakás
+order notes at another delivery address: Kérem, hogy a kapucsengőn két rövidet csengessenek.
